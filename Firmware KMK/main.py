@@ -1,11 +1,5 @@
 """
 SnekPad KMK Firmware
-
-Hardware: Raspberry Pi Pico with KMK
-- 6 mechanical switches in 3×2 matrix
-- 1 rotary encoder with switch
-- OLED display (128x64) with custom UI
-
 Button Layout:
   [S1-Copy] [S2-Paste] [S3-Terminal]
   [S4-F13]  [S5-F14]   [S6-F15]
