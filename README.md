@@ -14,3 +14,26 @@ Code Snippet
 Bottom Case
 <img width="1500" height="736" alt="Screenshot 2026-01-25 195243" src="https://github.com/user-attachments/assets/3c7c52af-c708-40e4-816d-a6c68b915b98" />
 Top Case
+
+
+ # **BOM** #
+
+- 10x Cherry Mx Low Profile Switches 2.7 USD
+
+- 10x Blank DSA Keycaps 2.2 USD
+
+- 100x Chanzon 1N4148 Diodes 2.73 USD
+
+- 1x 0.96 inch OLED Display Module 1.7 USD
+
+- 1x Raspberry PI PICO 5.45 USD
+
+- 2x EC11B5AI  Rotary Encoder 1.22
+
+- 1x Soldering Iron 3.27 USD
+
+- 1x PCB 9.82 USD
+
+  ***Total : 29.22 - 35 USD***
+
+  Link to BOM: https://docs.google.com/spreadsheets/d/1mGxVifGTovYlbTKS4N1jqtnvdSKJnGPxNXVJJV7mGf4/edit?usp=sharing
