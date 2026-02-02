@@ -23,7 +23,7 @@ The volume knob is used for well, To contol volume and mute on a press. The Top 
 | Cherry MX Low Profile Switches | 10x | 2.70 |
 | Blank DSA Keycaps | 10x | 2.20 |
 | Chanzon 1N4148 Diodes | 100x | 2.73 |
-| 0.96 inch OLED Display Module | 1x | 1.70 |
+| 0.91 inch OLED Display Module | 1x | 1.71 |
 | Xiao RP2040 | 1x | 6.75 |
 | EC11B5AI Rotary Encoder | 2x | 1.22 |
 | Soldering Iron | 1x | 3.27 |
