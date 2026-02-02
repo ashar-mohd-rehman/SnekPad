@@ -1,19 +1,20 @@
 I introduce you all to the SnekPad. Snekpad is a 6key macropad with an OLED display and a Volume knob. The oled display shows the stas, Volume and the SnekPad Logo. 
 The volume knob is used for well, To contol volume and mute on a press. The Top keys are mapped to Copy,Paste,Cut and the bottom keys are mappable in ur desired software.
-Now I would like to show you all some images of schematic,PCB,Case and code snippets
+# Assembly
 
-<img width="2047" height="1158" alt="Screenshot 2026-01-21 185408" src="https://github.com/user-attachments/assets/20866fad-288c-45e2-92cc-525e61e7a5e2" />
-Schematic
-<img width="1141" height="917" alt="Screenshot 2026-01-23 204033" src="https://github.com/user-attachments/assets/56ba5ae9-c102-4236-9312-2f17a1e213ce" />
-Pcb
-<img width="1497" height="1054" alt="Screenshot 2026-01-23 204009" src="https://github.com/user-attachments/assets/9f94ca62-781b-458b-9bcc-369e4f097b72" />
-Pcb
+<img width="1345" height="848" alt="Screenshot 2026-02-02 183919" src="https://github.com/user-attachments/assets/6c242d1c-3638-4582-bd62-99eed591c536" />
+
+# PCB 
+<img width="1398" height="917" alt="Screenshot 2026-01-31 205617" src="https://github.com/user-attachments/assets/ec56e49a-2a54-4728-a721-32ca8c419d03" />
+<img width="1094" height="846" alt="Screenshot 2026-02-02 165941" src="https://github.com/user-attachments/assets/59a878db-0197-442f-a7f7-514b512330a4" />
+
+# Schematic
+<img width="1922" height="1250" alt="Screenshot 2026-02-02 163419" src="https://github.com/user-attachments/assets/89d8b29b-7cb1-4642-8e1f-813fddcb43a2" />
+
+# Code Snippet
+
 <img width="1541" height="1025" alt="Screenshot 2026-01-24 200545" src="https://github.com/user-attachments/assets/ce18fcc9-db73-4a38-b910-75a4553503c1" />
-Code Snippet
-<img width="1844" height="1019" alt="Screenshot 2026-01-25 191421" src="https://github.com/user-attachments/assets/c94e253e-9272-4f11-aeaf-dbf224792bb4" />
-Bottom Case
-<img width="1500" height="736" alt="Screenshot 2026-01-25 195243" src="https://github.com/user-attachments/assets/3c7c52af-c708-40e4-816d-a6c68b915b98" />
-Top Case
+
 
 
  # **BOM** #
@@ -34,6 +35,6 @@ Top Case
 
 - 1x PCB 9.82 USD
 
-  ***Total : 29.22 - 35 USD***
+  ***Total : 31 - 35 USD***
 
   Link to BOM: https://docs.google.com/spreadsheets/d/1mGxVifGTovYlbTKS4N1jqtnvdSKJnGPxNXVJJV7mGf4/edit?usp=sharing
